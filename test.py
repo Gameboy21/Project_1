@@ -1,1 +1,1 @@
-print("hellooo!! first git repo added new text")
+print("hellooo!! first git repo --master")
