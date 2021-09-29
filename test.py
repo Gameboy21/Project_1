@@ -1,1 +1,2 @@
-print("hellooo!! first git repo --main")
+print("hellooo!! first git repo --master")
+
